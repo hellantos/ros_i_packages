@@ -1,0 +1,9 @@
+title: ROS-Industrial Packages
+description: >-
+  This page details packages that are compatible with the ROS-Industrial ecosystem.
+baseurl: ""
+sass:
+  sass_dir: _sass
+collections:
+  robots:
+    ouput: true
